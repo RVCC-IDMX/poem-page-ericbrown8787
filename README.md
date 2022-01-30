@@ -16,4 +16,6 @@ This is a simple webpage showcasing the unnamed third poem(usually referred to a
 
 - I originally obtained the image of dead trees in a desert from [Pexels](https://www.pexels.com/photo/sky-sand-blue-desert-68661/), but the attribution information for the photo simply listed Pixabay, which is another site that hosts stock photos. Using a reverse image search, I was able to trace the pixabay account that the photo originated from as [katja-8442](https://pixabay.com/photos/tree-desert-namibia-dead-vlei-64311/).
 
+- [Background image by Adrien Olichon, Obtained from Pexels.com](https://www.pexels.com/photo/black-sand-dunes-2387793/)
+
 - [Favicon from Flaticon.com](https://www.flaticon.com/free-icon/heart_3843002?term=human%20heart&page=1&position=20&page=1&position=20&related_id=3843002&origin=tag)
